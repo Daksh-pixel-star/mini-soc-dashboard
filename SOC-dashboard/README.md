@@ -1,4 +1,4 @@
-# CyberSOC - Security Operations Center Dashboard 🛡️
+# CyberSOC - Security Operations Center Dashboard 
 
 **CyberSOC** is a professional, full-featured Security Operations Center (SOC) dashboard web application built with **Python**, **Flask**, **SQLite**, **Chart.js**, and **ReportLab**. 
 
@@ -6,7 +6,7 @@ Designed specifically for cybersecurity interns, SOC analysts, and security enth
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 1. **Dark CyberSOC Dashboard**:
    - High-impact dark theme UI with glowing status indicators and live SOC monitoring feed.
@@ -53,7 +53,7 @@ Designed specifically for cybersecurity interns, SOC analysts, and security enth
 
 ---
 
-## 📂 Project Architecture
+## Project Architecture
 
 ```
 CyberSOC/
@@ -109,7 +109,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Running the CyberSOC Application
+## Running the CyberSOC Application
 
 To launch the CyberSOC web server, execute:
 
@@ -126,11 +126,11 @@ Output:
 ```
 
 Open your web browser and navigate to:
-👉 **`http://127.0.0.1:5000`**
+ **`http://127.0.0.1:5000`**
 
 ---
 
-## 💻 Tech Stack Summary
+## Tech Stack Summary
 
 | Layer | Technology |
 |---|---|
